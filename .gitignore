@@ -1,0 +1,19 @@
+# Claude Code artifacts
+.claude/
+CLAUDE.md
+*.claude
+.claude*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+.env
+.env.local
+
+# Build
+dist/
+build/
+.next/
